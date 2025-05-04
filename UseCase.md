@@ -1,7 +1,4 @@
-# bicycle-rental-system
-공유 자전거 대여 시스템
 
-## 신형섭
 ## Requirement list
 
 | No  | Requirement                                                                                                                                                                                                                                                                   | Use case              |
