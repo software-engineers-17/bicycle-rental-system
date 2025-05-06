@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Requirement list
 
@@ -48,3 +49,8 @@
 |                                   | 시스템은 일반적으로 사용자를 로그인 화면으로 리디렉션한다. |
 
 
+=======
+# bicycle-rental-system
+
+공유 자전거 대여 시스템
+>>>>>>> fd7e3bd11ad64e222e6e3acdc89a90ab21750fd7
