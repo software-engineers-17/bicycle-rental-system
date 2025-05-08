@@ -1,0 +1,100 @@
+[limgahyun] Fri May 9 03:22:12 2025 +0900 Merge pull request #16 from yeeunli/main 20bed10
+[yeeunli] Fri May 9 03:16:07 2025 +0900 fix: requirement list 및 use case description에 actor 명시 f9bb961
+[yeeunli] Fri May 9 02:41:30 2025 +0900 Merge remote-tracking branch 'upstream/dev' cf2844e
+[이예은] Fri May 9 02:31:53 2025 +0900 Merge pull request #15 from limgahyun/main 648837c
+[limgahyun] Fri May 9 02:24:32 2025 +0900 docs: use case description 로직 내용 삭제 a5c60e9
+[limgahyun] Fri May 9 02:19:44 2025 +0900 Merge branch 'dev' of https://github.com/software-engineers-17/bicycle-rental-system 7c6a2be
+[limgahyun] Fri May 9 02:16:24 2025 +0900 Merge pull request #14 from jiwoo1111/main bba9352
+[jiwoo1111] Fri May 9 02:11:23 2025 +0900 회의 후 최종 0964f7f
+[limgahyun] Fri May 9 01:13:11 2025 +0900 docs: change font size 9b6fdb9
+[limgahyun] Fri May 9 01:08:50 2025 +0900 Merge pull request #13 from software-engineers-17/dev f9544b4
+[limgahyun] Fri May 9 01:05:25 2025 +0900 Merge pull request #12 from yeeunli/main 13f716a
+[yeeunli] Fri May 9 01:04:28 2025 +0900 docs: use case diagram 수정 b9ea7e1
+[limgahyun] Fri May 9 01:03:12 2025 +0900 Merge pull request #11 from jiwoo1111/main d5d4e9c
+[jiwoo1111] Fri May 9 01:02:24 2025 +0900 자전거 상세정보 조회_관리자 e550e80
+[jiwoo1111] Fri May 9 01:01:04 2025 +0900 readme 변경 80ad85d
+[jiwoo1111] Fri May 9 00:59:33 2025 +0900 자전거 오류 f646d80
+[jiwoo1111] Fri May 9 00:55:14 2025 +0900 관리자 설명 추가 a473577
+[jiwoo1111] Fri May 9 00:41:20 2025 +0900 회의내용 반영 8d87d95
+[yeeunli] Fri May 9 00:36:13 2025 +0900 fix: requirement list에서 회원 가입 기능 actor 수정 aefa5b3
+[jiwoo1111] Fri May 9 00:34:32 2025 +0900 회의 내용 반영 dc1a277
+[yeeunli] Fri May 9 00:24:52 2025 +0900 docs: 기능 11, 12, 13 usecase description 작성 297db09
+[yeeunli] Fri May 9 00:23:49 2025 +0900 docs:수정 전 usecase diagram 삭제 1da42c5
+[yeeunli] Fri May 9 00:23:26 2025 +0900 docs: usecase diagram 확정 d4a128b
+[jiwoo1111] Thu May 8 23:48:38 2025 +0900 docs: requirement list - use case diagram 회의 내용 반영 78ae856
+[jiwoo1111] Thu May 8 23:36:53 2025 +0900 requirement list 틀 수정 ae9e50e
+[jiwoo1111] Thu May 8 22:50:11 2025 +0900 usecase description 미삭제필요  부분 삭제 821fe47
+[jiwoo1111] Thu May 8 22:47:40 2025 +0900 usecase description 추가 98d4a91
+[jiwoo1111] Thu May 8 22:43:42 2025 +0900 readme 수정 1d95877
+[jiwoo1111] Thu May 8 16:39:03 2025 +0900 docs: readme, requirement_list.readme (main) df10bb8
+[jiwoo1111] Thu May 8 15:21:39 2025 +0900 docs: requirement list 메인 기능 변경 내용 적용 285df5d
+[jiwoo1111] Thu May 8 15:01:22 2025 +0900 docs: requirement list d5b93d8
+[jiwoo1111] Thu May 8 15:00:18 2025 +0900 docs: requirement list 974af31
+[jiwoo1111] Thu May 8 14:46:59 2025 +0900 docs: requirement list 5328888
+[jiwoo1111] Thu May 8 14:43:39 2025 +0900 Merge branch 'dev' of https://github.com/software-engineers-17/bicycle-rental-system d512297
+[limgahyun] Thu May 8 14:39:05 2025 +0900 Merge pull request #8 from limgahyun/main cc765a9
+[jiwoo1111] Thu May 8 14:21:50 2025 +0900 requriement list 대여소 파트 수정 4d570fd
+[limgahyun] Thu May 8 14:14:58 2025 +0900 docs: requirement list 번호 정리 f3b11a6
+[limgahyun] Thu May 8 14:09:48 2025 +0900 Merge pull request #10 from software-engineers-17/main 263b45b
+[limgahyun] Thu May 8 14:08:29 2025 +0900 Merge pull request #9 from yeeunli/main 7d76c5a
+[jiwoo1111] Thu May 8 13:48:11 2025 +0900 수정 52e9d64
+[jiwoo1111] Thu May 8 11:13:49 2025 +0900 Readme 초안 작성 0bae438
+[jiwoo1111] Thu May 8 11:11:05 2025 +0900 재귀 리포지토리 삭제 efef7cc
+[yeeunli] Thu May 8 01:43:19 2025 +0900 docs: 불필요한 requirement list 정리 011d233
+[limgahyun] Wed May 7 20:11:31 2025 +0900 docs: use case description 수정 0f7130c
+[limgahyun] Wed May 7 19:56:03 2025 +0900 docs: use case description 작성 94fe1f4
+[limgahyun] Wed May 7 15:48:25 2025 +0900 docs: 한글 번역 489a66f
+[limgahyun] Wed May 7 15:35:17 2025 +0900 Merge branch 'dev' of https://github.com/software-engineers-17/bicycle-rental-system 8a39061
+[limgahyun] Wed May 7 15:34:09 2025 +0900 docs: use case diagram persional backup ce7eaf6
+[limgahyun] Wed May 7 15:27:45 2025 +0900 docs: main use case 기준으로 requirement 수정 c5f9262
+[jiwoo1111] Wed May 7 14:41:14 2025 +0900 requirement list & use case description 초안 작성 7baa69b
+[jiwoo1111] Wed May 7 14:04:02 2025 +0900 Fix: remove submodule and add actual files 54a5a67
+[jiwoo1111] Wed May 7 14:04:02 2025 +0900 Initial commit 005028e
+[nubro999] Tue May 6 18:57:00 2025 +0900 Merge pull request #7 from software-engineers-17/dev e99a122
+[nubro999] Tue May 6 18:52:58 2025 +0900 chage again fb8d4f3
+[limgahyun] Tue May 6 17:23:29 2025 +0900 Merge pull request #5 from software-engineers-17/dev fd7e3bd
+[limgahyun] Tue May 6 17:18:22 2025 +0900 Merge pull request #2 from limgahyun/main a1d14b8
+[limgahyun] Tue May 6 17:16:17 2025 +0900 docs: requirement list 수정 99c0bfc
+[limgahyun] Tue May 6 17:05:07 2025 +0900 docs: 역할분담 내용 추가 2844b69
+[limgahyun] Tue May 6 15:14:26 2025 +0900 docs: readme f5c2070
+[limgahyun] Tue May 6 15:13:29 2025 +0900 docs: requirement, description 파일 분리 f21fd21
+[limgahyun] Tue May 6 15:08:59 2025 +0900 docs: table 형식 맞춤 97c58f5
+[limgahyun] Tue May 6 15:06:53 2025 +0900 docs: 팀 코드 작성 dbda03e
+[limgahyun] Tue May 6 15:06:09 2025 +0900 docs: use case 기준으로 requirement list 수정 80295ee
+[limgahyun] Tue May 6 14:46:46 2025 +0900 fix: resolve conflicts 27045a2
+[limgahyun] Tue May 6 14:42:04 2025 +0900 Merge pull request #3 from yeeunli/main 4209b91
+[yeeunli] Tue May 6 14:18:40 2025 +0900 docs: 통합 기능 usecase diagram 416f687
+[yeeunli] Tue May 6 14:17:50 2025 +0900 chore: 통합 전 usecase diagram 파일 정리 80f7b5c
+[yeeunli] Tue May 6 14:16:31 2025 +0900 docs: 기존 파일에 기능 11, 12, 13 통합 fbb799b
+[yeeunli] Tue May 6 14:15:18 2025 +0900 Merge branch 'main' of https://github.com/software-engineers-17/bicycle-rental-system ec010ac
+[yeeunli] Tue May 6 13:24:47 2025 +0900 docs: 이용 내역 조회 및 삭제 기능 requirement list 수정 4112dbd
+[yeeunli] Tue May 6 13:23:10 2025 +0900 docs: 결제 및 요금 조회 기능 requirement list 수정정 3e9b8b9
+[nubro999] Mon May 5 22:03:25 2025 +0900 Merge pull request #4 from nubro999/main b3d8cd6
+[nubro999] Mon May 5 21:54:15 2025 +0900 diagram c6c243d
+[yeeunli] Mon May 5 21:42:50 2025 +0900 docs: 기능 11, 12, 13 use case diagram d1bbfe9
+[yeeunli] Mon May 5 21:41:15 2025 +0900 docs: 통계 기능 requirement list 3323cda
+[yeeunli] Mon May 5 21:40:09 2025 +0900 docs: 이용 내역 조회 및 삭제 기능 requirement list f5c36b7
+[yeeunli] Mon May 5 21:37:03 2025 +0900 docs: 결제 및 요금 조회 기능 requirement list edf18cb
+[limgahyun] Mon May 5 15:06:54 2025 +0900 docs: style 변경 58c1d5a
+[limgahyun] Mon May 5 15:04:12 2025 +0900 docs: style 변경 43d000d
+[limgahyun] Mon May 5 14:59:36 2025 +0900 docs: requirement list 수정 d987a63
+[limgahyun] Mon May 5 14:58:13 2025 +0900 docs: requirement list 형식 변환 a3a4c84
+[limgahyun] Mon May 5 11:59:36 2025 +0900 docs: main use case 기준으로 통합 6a1d783
+[limgahyun] Mon May 5 11:29:02 2025 +0900 docs: 줄바꿈 추가 0bbe393
+[limgahyun] Mon May 5 10:35:17 2025 +0900 docs: 자전거 반납 기능 requirement list 414f064
+[limgahyun] Mon May 5 10:31:51 2025 +0900 docs: 자전거 반납 기능 requirement list d40c522
+[limgahyun] Mon May 5 10:05:18 2025 +0900 docs: 자전거 예약 대기 정보 조회 및 취소 기능 requirement list 3ff56f0
+[limgahyun] Mon May 5 09:57:43 2025 +0900 docs: 형식 수정 0332186
+[limgahyun] Mon May 5 09:55:00 2025 +0900 docs: 형식 수정 e851ee2
+[limgahyun] Mon May 5 09:54:04 2025 +0900 docs: 형식 수정 5e72181
+[limgahyun] Mon May 5 09:49:11 2025 +0900 docs: 형식 수정 f460879
+[limgahyun] Mon May 5 09:47:24 2025 +0900 docs: 자전거 대여 정보 조회 기능 requirement list 1f86ebd
+[limgahyun] Mon May 5 09:33:11 2025 +0900 docs: 줄바꿈 테스트 07932b0
+[limgahyun] Mon May 5 09:31:46 2025 +0900 docs: 상세정보 조회 기능 requirement list 작성 7a0c9aa
+[limgahyun] Mon May 5 09:30:24 2025 +0900 docs: 상세정보 조회 기능 requirement list 작성 5a599cc
+[limgahyun] Mon May 5 09:01:41 2025 +0900 docs: requirement list 형식 제작 b661224
+[nubro999] Sun May 4 23:47:10 2025 +0900 Merge pull request #1 from nubro999/docs/Register,Withdrawl,Login,Logout f466461
+[nubro999] Sun May 4 23:34:23 2025 +0900 docs: 회원가입, 탈퇴, 로그인, 로그아웃 requirement list. usecase description 작성 b0f575a
+[nubro999] Sun May 4 23:32:49 2025 +0900 docs: 회원가입, 탈퇴, 로그인, 로그아웃 requirement list. usecase description 작성 3d10e45
+[limgahyun] Fri May 2 16:09:26 2025 +0900 Create pull_request_template.md cbab0e2
+[limgahyun] Fri May 2 16:05:08 2025 +0900 Initial commit 03df51a
